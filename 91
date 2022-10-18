@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T05:03:19.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="QIJ7kwKkqhG1Nvb7fJ_k" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-18T05:26:03.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="K3MX61p3ACQd1cQQHBuG" version="20.4.0" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="1574" dy="262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1495" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,15 +8,15 @@
           <mxGeometry x="200" y="280" width="330" height="220" as="geometry" />
         </mxCell>
         <mxCell id="39150e848f15840c-2" value="Block" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="610" y="280" width="330" height="220" as="geometry" />
+          <mxGeometry x="930" y="280" width="330" height="220" as="geometry" />
         </mxCell>
         <mxCell id="FVdvT9X2X9guMcxYcrdm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=140;exitDy=0;exitPerimeter=0;fontSize=11;" edge="1" parent="1" source="39150e848f15840c-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="790" y="760" as="targetPoint" />
+            <mxPoint x="970" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="39150e848f15840c-3" value="Block" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="450" y="620" width="260" height="150" as="geometry" />
+          <mxGeometry x="630" y="630" width="260" height="150" as="geometry" />
         </mxCell>
         <mxCell id="FVdvT9X2X9guMcxYcrdm-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="39150e848f15840c-4" target="FVdvT9X2X9guMcxYcrdm-12">
           <mxGeometry relative="1" as="geometry" />
@@ -31,19 +31,22 @@
           <mxGeometry x="440" y="440" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="39150e848f15840c-7" value="客户端业务" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="345" width="120" height="60" as="geometry" />
+          <mxGeometry x="970" y="345" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FVdvT9X2X9guMcxYcrdm-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="39150e848f15840c-8" target="FVdvT9X2X9guMcxYcrdm-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="39150e848f15840c-8" value="Project.Client.&lt;br&gt;business.&lt;br&gt;&lt;b&gt;Name&lt;/b&gt;" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="795" y="350" width="110" height="50" as="geometry" />
+          <mxGeometry x="1125" y="350" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="39150e848f15840c-9" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="700" y="440" width="20" height="20" as="geometry" />
+          <mxGeometry x="1030" y="440" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FVdvT9X2X9guMcxYcrdm-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1.001;entryY=0.391;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;fontColor=#FF0000;dashed=1;" edge="1" parent="1" source="39150e848f15840c-10" target="FVdvT9X2X9guMcxYcrdm-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="39150e848f15840c-10" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 11px;&quot;&gt;登录/注册 模块&lt;/font&gt;&lt;/font&gt;" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="39150e848f15840c-11" style="edgeStyle=none;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=open;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;" parent="1" source="39150e848f15840c-10" target="39150e848f15840c-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -71,7 +74,8 @@
         <mxCell id="39150e848f15840c-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=none;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;" parent="1" source="39150e848f15840c-3" target="39150e848f15840c-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="775" y="695" />
+              <mxPoint x="900" y="705" />
+              <mxPoint x="900" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -83,10 +87,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FVdvT9X2X9guMcxYcrdm-1" value="Player-GET" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="780" width="30" height="60" as="geometry" />
+          <mxGeometry x="840" y="790" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FVdvT9X2X9guMcxYcrdm-3" value="登录/注册 请求" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="795" y="620" width="200" height="420" as="geometry">
+          <mxGeometry x="975" y="630" width="200" height="420" as="geometry">
             <mxRectangle x="800" y="660" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -94,7 +98,7 @@
           <mxGeometry y="20" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FVdvT9X2X9guMcxYcrdm-6" value="&lt;h1&gt;注册&lt;/h1&gt;&lt;p&gt;注:steam自动登录的情况下没有注册过的User会自动注册.&lt;/p&gt;&lt;p&gt;参数:register_pn为:注册登录手机号&lt;/p&gt;&lt;p&gt;注册验证码验证:&lt;/p&gt;&lt;p&gt;参数:reginter_pn为:注册登录手机号; reginter_cheak_number:验证码&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="800" y="810" width="190" height="210" as="geometry" />
+          <mxGeometry x="980" y="820" width="190" height="210" as="geometry" />
         </mxCell>
         <mxCell id="FVdvT9X2X9guMcxYcrdm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=11;" edge="1" parent="1" source="FVdvT9X2X9guMcxYcrdm-6" target="FVdvT9X2X9guMcxYcrdm-6">
           <mxGeometry relative="1" as="geometry" />
@@ -103,9 +107,9 @@
           <mxGeometry x="50" y="350" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FVdvT9X2X9guMcxYcrdm-14" value="客户端业务接口&lt;br&gt;(Function)" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="985" y="350" width="110" height="50" as="geometry" />
+          <mxGeometry x="1315" y="350" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FVdvT9X2X9guMcxYcrdm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.797;entryY=-0.041;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" edge="1" parent="1" source="FVdvT9X2X9guMcxYcrdm-21" target="FVdvT9X2X9guMcxYcrdm-12">
+        <mxCell id="FVdvT9X2X9guMcxYcrdm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.797;entryY=-0.041;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;endArrow=diamondThin;endFill=1;" edge="1" parent="1" source="FVdvT9X2X9guMcxYcrdm-21" target="FVdvT9X2X9guMcxYcrdm-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FVdvT9X2X9guMcxYcrdm-21" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;Project.Game.&lt;/span&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;business.&lt;/span&gt;&lt;br&gt;&lt;b&gt;Match&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Match Of Mode: 标准竞技模式&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;-&amp;nbsp; Function Name :&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;Game_standard_Match&lt;/font&gt;&lt;br&gt;+ Mode: 5V5 竞技模式&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;Game_standard_Match_5&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ Mode: 2V2 竞技模式&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;Game_standard_Match_2&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;............Wait to Add&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Join_MatchPool&lt;br&gt;+ Match&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Ready&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
@@ -114,8 +118,43 @@
         <mxCell id="FVdvT9X2X9guMcxYcrdm-24" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br/&gt;&lt;b&gt;Interface&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field1: Type&lt;br/&gt;+ field2: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method1(Type): Type&lt;br/&gt;+ method2(Type, Type): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
           <mxGeometry x="-450" y="280" width="190" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="FVdvT9X2X9guMcxYcrdm-25" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;Project.Client.&lt;/span&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;business.&lt;/span&gt;&lt;br&gt;&lt;b&gt;VIP&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field1: Type&lt;br&gt;+ field2: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method1(Type): Type&lt;br&gt;+ method2(Type, Type): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
-          <mxGeometry x="1240" y="10" width="190" height="140" as="geometry" />
+        <mxCell id="FVdvT9X2X9guMcxYcrdm-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#FF0000;endArrow=diamondThin;endFill=1;" edge="1" parent="1" source="FVdvT9X2X9guMcxYcrdm-25" target="FVdvT9X2X9guMcxYcrdm-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVdvT9X2X9guMcxYcrdm-25" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;Project.Client.&lt;/span&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;business.&lt;/span&gt;&lt;br&gt;&lt;b&gt;VIP&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;VIP.Shop + VIP.Buy&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;VIP 商城UI&lt;br&gt;VIP 购买业务逻辑&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
+          <mxGeometry x="1560" y="-20" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FVdvT9X2X9guMcxYcrdm-26" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;Project.Maintain.&lt;/span&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;business.&lt;/span&gt;&lt;br style=&quot;font-family: Verdana;&quot;&gt;&lt;b&gt;Server_&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Allocation&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field1: Type&lt;br&gt;+ field2: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method1(Type): Type&lt;br&gt;+ method2(Type, Type): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
+          <mxGeometry x="485" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="FVdvT9X2X9guMcxYcrdm-27" value="Block" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="550" y="280" width="330" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="FVdvT9X2X9guMcxYcrdm-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#FF0000;" edge="1" parent="1" source="FVdvT9X2X9guMcxYcrdm-28" target="FVdvT9X2X9guMcxYcrdm-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVdvT9X2X9guMcxYcrdm-28" value="Project.Maintain.&lt;br&gt;business.&lt;br&gt;&lt;b&gt;Name&lt;/b&gt;" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="590" y="350" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FVdvT9X2X9guMcxYcrdm-29" value="运维业务" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FVdvT9X2X9guMcxYcrdm-30" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="790" y="440" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FVdvT9X2X9guMcxYcrdm-31" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=none;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;" edge="1" parent="1" source="FVdvT9X2X9guMcxYcrdm-30" target="FVdvT9X2X9guMcxYcrdm-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FVdvT9X2X9guMcxYcrdm-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=open;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;dashed=1;" edge="1" parent="1" source="FVdvT9X2X9guMcxYcrdm-29" target="FVdvT9X2X9guMcxYcrdm-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="430" />
+              <mxPoint x="645" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FVdvT9X2X9guMcxYcrdm-41" value="运维服务接口&lt;br&gt;(Function)" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
