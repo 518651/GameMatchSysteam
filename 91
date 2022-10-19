@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T05:55:49.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="h-nx1hcSi8yJj2bmPAPZ" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-19T06:33:30.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="xoc0U6Fc_a51kqEyUAbL" version="20.4.1" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="3131" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4848" dy="2420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,9 +165,6 @@
         <mxCell id="FVdvT9X2X9guMcxYcrdm-41" value="运维服务接口&lt;br&gt;(Function)" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="585" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WzW9YshYVG6PMkZ6FUDZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" parent="1" source="16oBldgTKHe8yQYOtCDf-10" target="FVdvT9X2X9guMcxYcrdm-41" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WzW9YshYVG6PMkZ6FUDZ-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;Project.Maintain.&lt;/span&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;business.&lt;/span&gt;&lt;br style=&quot;font-family: Verdana;&quot;&gt;&lt;b&gt;Server_&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Start/Stop&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;服务器自启\停止&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;自动启动服务器开始游戏服务\服务&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;结束自动回收服务器.&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" parent="1" vertex="1">
           <mxGeometry x="550" y="-360" width="190" height="140" as="geometry" />
         </mxCell>
@@ -189,7 +186,7 @@
         <mxCell id="WzW9YshYVG6PMkZ6FUDZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.576;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WzW9YshYVG6PMkZ6FUDZ-11" target="39150e848f15840c-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WzW9YshYVG6PMkZ6FUDZ-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;Project.Admin&lt;/i&gt;&lt;br&gt;&lt;b&gt;Systeam&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;管理面板(exe)&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;基于C# .Net 6.0 管理员后端面板&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" parent="1" vertex="1">
+        <mxCell id="WzW9YshYVG6PMkZ6FUDZ-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;Project.Admin&lt;/i&gt;&lt;br&gt;&lt;b&gt;Systeam&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;管理面板(exe)&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;基于C# .Net 6.0 / Web端&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;管理员后端面板&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" parent="1" vertex="1">
           <mxGeometry x="370" y="760" width="190" height="140" as="geometry" />
         </mxCell>
         <mxCell id="16oBldgTKHe8yQYOtCDf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.789;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#33FF33;" parent="1" source="16oBldgTKHe8yQYOtCDf-1" target="39150e848f15840c-3" edge="1">
@@ -211,7 +208,7 @@
           <mxGeometry x="1320" y="520" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="16oBldgTKHe8yQYOtCDf-10" value="&lt;font color=&quot;#000099&quot; style=&quot;font-size: 28px;&quot;&gt;91对战平台第二次后端升级&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="430" y="100" width="440" height="20" as="geometry" />
+          <mxGeometry x="425" y="130" width="440" height="20" as="geometry" />
         </mxCell>
         <mxCell id="16oBldgTKHe8yQYOtCDf-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" parent="1" source="WzW9YshYVG6PMkZ6FUDZ-2" target="16oBldgTKHe8yQYOtCDf-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -270,6 +267,9 @@
         </mxCell>
         <mxCell id="0q9gcGarKD4KYIPfi9W5-14" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-620" y="1700" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0q9gcGarKD4KYIPfi9W5-18" value="报价:2.5w+ 至 3.0w = 2.7 / 50%&lt;br&gt;一套稳定的框架" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-360" width="330" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
